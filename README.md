@@ -1,2 +1,2 @@
 # my.first.project
-my first projact 
+my first project 
